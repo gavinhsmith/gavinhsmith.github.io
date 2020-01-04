@@ -3,7 +3,7 @@
   var ip;
   $.get("https://api.ipdata.co?api-key=test", function(response) {
     ip = response.ip;
-    if (ip = '96.60.13.193') {
+    if (ip == '96.60.13.193') {
       window.location.href = 'http://192.168.0.21/';
     } else {
       window.location.href = 'http://www.gavinhsmith.ga/';
