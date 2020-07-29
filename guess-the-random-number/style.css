@@ -19,7 +19,7 @@ h1 {
     margin-bottom: 5px;
 }
 input {
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 8px;
 }
 
@@ -39,7 +39,7 @@ button:hover {
 }
 
 .out {
-    border: 1px solid black;
+    border: 2px solid black;
     padding: 10px;
     max-width: 600px;
     min-height: 100px;
