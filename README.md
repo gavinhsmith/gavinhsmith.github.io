@@ -14,7 +14,7 @@ In all reality, I have always found it fun to learn how computers work. I starte
 
 ### What type of personality do you have?
 
-I ride off the waves of early-2010s lol-random internet cartoons, and that transfered into my vast enjoyment of modern memes [like this one](https://knowyourmeme.com/memes/juan-horse-on-balcony/). I don't talk to many people, I like working on game mechanics, and have a lot of fun working with the others in my [very, VERY bad "game" studio](https://www.lettucemanstudios.tk/).
+I ride off the waves of early-2010s lol-random internet cartoons, and that transfered into my vast enjoyment of modern memes [like this one](https://knowyourmeme.com/memes/juan-horse-on-balcony/). I don't talk to many people, I like working on game mechanics, and have a lot of fun working with the others in my [very, VERY bad "game" studio](https://indienile-games.github.io/).
 
 ### Coding Sucks. Why?
 
